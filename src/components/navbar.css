@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.active {
+  color: red;
+}
+
+.noActive {
+  color: #fff;
+}
+
+.navbar {
+  height: 13vh;
+  background: #BDBDBD;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 3rem;
+}
+
+.navbar a {
+  text-decoration: none;
+  margin-right: 1rem;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+li Link {
+  text-decoration: none;
+  color: #fff;
+}
+
+li Link:hover {
+  background-color: #111;
+}
+
+.views {
+  display: flex;
+}
+
+.views li{
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.navLogo {
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+}
+
+.navLogo img {
+  width: 5vw;
+}

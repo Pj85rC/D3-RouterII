@@ -1,0 +1,26 @@
+.select {
+  display: block;
+  font-size: 16px;
+  font-family: "Verdana", sans-serif;
+  font-weight: 400;
+  box-sizing: border-box;
+  margin: 20px auto;
+  height: 2rem;
+  box-shadow: 0 1px 0 1px rgba(0,0,0,.03);
+  border-radius: .3em;
+}
+
+.btn{
+    color: white;
+    background-color: black;
+    border: 2px solid #555555; 
+    height: 2.5rem;
+    width: 8rem;
+    font-size: 16px;
+    border-radius: 12px;
+}
+
+.btn:hover {
+    color: #555555;
+    background-color: white;
+  }
