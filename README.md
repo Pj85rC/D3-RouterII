@@ -4,8 +4,7 @@ D3-Route is the third project of REACT II module.
 
 ## Description
 
-consume the Poke API to get the data of the pokemons and load them in the
-corresponding views.
+consume the Poke API to get the data of the pokemons and load them in the corresponding views.
 
 
 ## Requirements
@@ -19,7 +18,7 @@ corresponding views.
 ## Link
 You can check the project in the follow link.
 
-Netlify:  https://632e28f40749cc0376b5b477--pj85rc-di-route-rll.netlify.app/
+Netlify:  https://pj85rc-dlll-routerll-rll.netlify.app/
 
 ## Installation
 
